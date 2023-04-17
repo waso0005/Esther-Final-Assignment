@@ -1,0 +1,28 @@
+@font-face {
+	font-family: Courgette;
+	src: url(Fonts/Courgette/Courgette-Regular.ttf);
+}
+
+html {
+	background-color: lightpink;
+	background-image: linear-gradient(to bottom right, black, darkred);
+}
+
+h1 {
+	color: #ffcce0;
+	font-family: Courgette;
+	margin-left: 350px;
+	margin-top: 250px;
+}
+
+.box {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.looks{
+	margin-top: 250px;
+	padding-bottom: 90px;
+	height: 250px;
+	width: 250px;
+}

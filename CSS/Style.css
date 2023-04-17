@@ -1,0 +1,55 @@
+@font-face {
+	font-family: Courgette;
+	src: url(Fonts/Courgette/Courgette-Regular.ttf);
+}
+
+html {
+	background-color: black;
+}
+
+.Door {
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 300px;
+}
+
+.Title {
+	color: #ffcce0;
+	font-family: Courgette;
+
+}
+
+.box {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+/*links*/
+
+.Links:link {
+	text-decoration: none;
+	color: skyblue;
+	font-family: Courgette;
+}
+
+.Links:visited {
+	text-decoration: none;
+	color: skyblue;
+	font-family: Courgette;
+
+}
+
+.Links:hover {
+	text-decoration: none;
+	color: skyblue;
+	font-family: Courgette;
+	font-size: 30px;
+
+}
+
+.Links:active {
+	text-decoration: none;
+	color: skyblue;
+	font-family: Courgette;
+
+}
